@@ -11,24 +11,10 @@
             "id": "851ba3d8f3947c26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LICENSE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LICENSE"
+              "title": "New tab"
             }
           }
         ]
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LICENSE"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LICENSE"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LICENSE"
+              "title": "Outline"
             }
           },
           {
@@ -195,9 +178,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "851ba3d8f3947c26",
+  "active": "8adefa19d8329b00",
   "lastOpenFiles": [
-    "Welcome.md",
-    "LICENSE.md"
+    "LICENSE.md",
+    "LICENSE.txt",
+    "Welcome.md"
   ]
 }
